@@ -1,5 +1,6 @@
 
-![MasterHead](https://github.com/vickyguar/vickyguar/assets/84190435/ed7ee276-0172-4584-acef-dd0351b7bca6)
+![MasterHead](https://github.com/vickyguar/vickyguar/assets/84190435/081c4c19-5e6d-4678-96ee-83d19c1c6b13)
+
 
 ___
 <h3 align="left">Languages and Tools:</h3>
