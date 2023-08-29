@@ -19,9 +19,3 @@ ___
 <a align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/vickyguar/vickyguar/assets/84190435/5e5641ba-e47a-4268-8aca-27889dea756d" alt="cplusplus" width="40" height="40"/>
   </a>
 <a align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/vickyguar/vickyguar/assets/84190435/73108146-80f5-4106-9ed0-aafa12990bfb" alt="cplusplus" width="40" height="40"/>
-
-___
-<h3 align="left">My Stats:</h3>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vickyguar&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vickyguar&theme=dracula&hide_border=true&hide_progress=true)
