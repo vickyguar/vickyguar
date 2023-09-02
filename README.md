@@ -9,7 +9,7 @@ ___
   </a>
 <a align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/vickyguar/vickyguar/assets/84190435/991cac96-639c-4ebd-9bbd-4986cec8f01e" alt="cplusplus" width="40" height="40"/>
   </a>
-<a align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/vickyguar/vickyguar/assets/84190435/3637a6f5-d77a-467b-aa6a-ccd1e3220384" alt="cplusplus" width="40" height="40"/>
+<a align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/vickyguar/vickyguar/assets/84190435/3637a6f5-d77a-467b-aa6a-ccd1e3220384" width="40" height="40"/>
   </a>
 <a align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/vickyguar/vickyguar/assets/84190435/386c6d32-b040-4ad3-8915-ed62c3a18aac" alt="cplusplus" width="40" height="40"/>
   </a>
