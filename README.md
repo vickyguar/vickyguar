@@ -20,3 +20,6 @@ ___
 <a align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/vickyguar/vickyguar/assets/84190435/5e5641ba-e47a-4268-8aca-27889dea756d" width="40" height="40"/>
   </a>
 <a align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/vickyguar/vickyguar/assets/84190435/73108146-80f5-4106-9ed0-aafa12990bfb" width="40" height="40"/>
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="victoria-guarnieri-" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/victoria-guarnieri-?trk=profile-badge">Victoria Guarnieri</a></div>
