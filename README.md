@@ -1,3 +1,3 @@
 
-![MasterHead](https://github.com/vickyguar/vickyguar/assets/84190435/081c4c19-5e6d-4678-96ee-83d19c1c6b13) 
+![MasterHead](![VICTORIA GUARNIERI](https://github.com/vickyguar/vickyguar/assets/84190435/ec76efb0-c960-48bb-b2af-99def7e32190))
        
